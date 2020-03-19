@@ -30,7 +30,7 @@ var server = http.createServer(function(request, response) {
             <link rel='stylesheet' href="/style">
         </head>
         <body>
-            <h1>内容</h1>
+            <h1>曹万大傻吊</h1>
         </body>
         `)
         response.end()
